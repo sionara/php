@@ -11,11 +11,6 @@ echo '<p>Hello World!</p>';
 ?>
 ```
 
-## Tutorial requirements:
-
-* [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
-* [Filezilla](https://filezilla-project.org/) (or any FTP program)
-
 ## Steps
 
 1. Open up a new file and name it output.php
@@ -35,6 +30,12 @@ After this line is converted to PHP it will be something like this:
 echo '<h1>PHP and Creating Output</h1>';
 
 ?>
+```
+
+## Tutorial requirements:
+
+* [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
+* [Filezilla](https://filezilla-project.org/) (or any FTP program)
 
 Full tutorial URL: https://codeadam.ca/learning/php/php-output.html
 
