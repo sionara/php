@@ -35,7 +35,7 @@ echo '<h1>PHP and Creating Output</h1>';
 
 Hints: Convert each line of HTML to PHP one line at a time. Test your PHP after converting each line of code. 
 
-## Tutorial requirements:
+## Tutorial Requirements:
 
 * [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
 * [Filezilla](https://filezilla-project.org/) (or any FTP program)
