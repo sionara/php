@@ -14,9 +14,9 @@ echo '<p>Hello World!</p>';
 
 ## Steps
 
-1. Open up a new file and name it output.php
-2. Copy the content from sample.html and paste it into your new PHP file
-3. Convert the HTML code in between the `<body>` and `</body>` from HTML to PHP
+1. Open up a new file and name it output.php.
+2. Copy the content from sample.html and paste it into your new PHP file.
+3. Convert the HTML code in between the `<body>` and `</body>` from HTML to PHP.
 4. For example the first line of HTML in the `<body>` tag is:
 
 ```
