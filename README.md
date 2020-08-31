@@ -33,7 +33,7 @@ echo '<h1>PHP and Creating Output</h1>';
 ?>
 ```
 
-Hints: Convert each line of HTML to PHP one line at a time. Test your PHP after converting each line of code. 
+> Hint: Convert each line of HTML to PHP one line at a time. Test your PHP after converting each line of code. 
 
 ## Tutorial Requirements:
 
