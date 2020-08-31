@@ -19,13 +19,13 @@ echo '<p>Hello World!</p>';
 3. Convert the HTML code in between the `<body>` and `</body>` from HTML to PHP.
 4. For example the first line of HTML in the `<body>` tag is:
 
-```
+```html
 <h1>PHP and Creating Output</h1>
 ```
 
 After this line is converted to PHP it will be something like this:
 
-```
+```php
 <?php
 
 echo '<h1>PHP and Creating Output</h1>';
