@@ -1,4 +1,4 @@
-# php-output
+# A Basic Introduction to PHP and Output
 
 A basic example of using `echo` to create output with PHP. 
 
