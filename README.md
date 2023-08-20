@@ -33,7 +33,7 @@ echo '<p>Hello World!</p>';
     ?>
     ```
 
-> Hint: Convert each line of HTML to PHP one line at a time. Test your PHP after converting each line of code. 
+Hint: Convert each line of HTML to PHP one line at a time. Test your PHP after converting each line of code. 
 
 > Full tutorial URL:  
 > https://codeadam.ca/learning/php-output.html
